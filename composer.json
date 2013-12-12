@@ -1,0 +1,18 @@
+{
+  "name": "suho-forked/sprintf-js",
+  "description": "JavaScript sprintf implementation",
+  "author": "Alexandru Marasteanu <hello@alexei.ro> (http://alexei.ro/)",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+  "prefer-stable": true,
+  "require": {
+    "robloach/component-installer": "*"
+  },
+  "extra": {
+    "component": {
+      "files": [
+        "src/*.js"
+      ]
+    }
+  }
+}
